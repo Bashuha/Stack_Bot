@@ -4,7 +4,7 @@ import lxml.html
 from lxml import etree
 from bs4 import BeautifulSoup
 
-TOKEN = "5729962240:AAFTb3-VWfZQfm58UMx9S-WH09fVcE7zZmk"
+TOKEN = "тут мог быть ваш токен"
 bot = telebot.TeleBot(TOKEN)
 
 
